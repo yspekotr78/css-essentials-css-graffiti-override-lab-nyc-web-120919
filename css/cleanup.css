@@ -12,7 +12,8 @@
 }
 #wall .tag-1 {
   display: none;
-}
+}              /* removes tag one styles */
+
 user agent stylesheet
 div {
     display: block;
