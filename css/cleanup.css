@@ -10,7 +10,7 @@
     border: 15px solid white;
     border-bottom: 60px solid white;
 }
-#wall {
+#wall .tag1 {
   display: none;
 }
 user agent stylesheet
